@@ -88,3 +88,4 @@ int main() {
   assert(1 == ret);
   return 0;
 }
+git push -u origin main
